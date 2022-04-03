@@ -14,7 +14,7 @@ export default function App() {
     setTask('');
   }
 
-  
+
 
   const completeTask = (index, ) => {
     let itemsCopy = [...taskItems];
